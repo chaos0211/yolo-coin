@@ -1,0 +1,26 @@
+# Web
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Deep Learning
+torch
+torchvision
+ultralytics
+
+# Data & Visualization
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+opencv-python
+
+# Database
+sqlalchemy
+alembic
+sqlite-utils
+
+# Config
+pydantic
+python-dotenv
